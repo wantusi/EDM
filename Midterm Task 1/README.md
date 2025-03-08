@@ -20,3 +20,6 @@
 
 ## STEP 4 Here's the screenshot of my output after I started data cleaning (See screenshot)
 <img src="Images/Clean.png" alt="Alt Text" width="400" height="300">
+
+## Heres the Physical Data Model
+<img src="Images/Clean.png" alt="Alt Text" width="400" height="300">
