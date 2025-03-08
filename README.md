@@ -10,4 +10,4 @@ Hi I my name is John Daniel R. Cayanan, a first-year BSIS student at City Colleg
 = Elementary: Enrica Sandico Elementary School
 
 ## My Projects
-- Midterm Lab Task 1:[Data Cleaning and Preparation using Excel](https://github.com/jmpelayo07/EDM-Project-JM/tree/main/Midterm%20Task%201)
+- Midterm Lab Task 1:[Data Cleaning and Preparation using Excel](https://github.com/wantusi/EDM/tree/main/Midterm%20Task%201)
