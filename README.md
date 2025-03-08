@@ -1,4 +1,4 @@
-# EDM-Project-JM
+# EDM-Project-DANIEL
 - this is my repository in EDM
 
 ## About Me
