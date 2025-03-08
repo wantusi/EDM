@@ -22,4 +22,4 @@
 <img src="Images/Clean.png" alt="Alt Text" width="400" height="300">
 
 ## Heres the Physical Data Model
-<img src="Images/Clean.png" alt="Alt Text" width="400" height="300">
+<img src="Images/ERD.png" alt="Alt Text" width="400" height="300">
