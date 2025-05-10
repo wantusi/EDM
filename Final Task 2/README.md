@@ -52,7 +52,7 @@ VALUES
 ```
 ## 🧩 Task 3 – ER Diagram or Relational Schema
 
-<img src="Images/FT2%20ERD.jpg" alt="Alt Text" width="800" height="400"> 
+![Alt Text](https://github.com/wantusi/EDM/blob/main/Final%20Task%202/Images/FT2%20ERD.jpg)
 
 ## 📂 Task 4 – SQL Copy of the Database and Table Structures
 
