@@ -22,4 +22,4 @@
 
 ## 6. Database Copy
 
-[SQL Copy](https://github.com/jmpelayo07/EDM-Project-JM/blob/main/Final%20Task%201/copy)
+[SQL Copy](https://github.com/wantusi/EDM/blob/main/Final%20Task%201/Copy)
