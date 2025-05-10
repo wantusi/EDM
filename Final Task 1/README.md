@@ -5,19 +5,16 @@
 The database consists of the following tables:
 
 ```sql
--- 1. Events Table
 CREATE TABLE events_tbl (
     event_id INT AUTO_INCREMENT PRIMARY KEY,
     event_name VARCHAR(255) NOT NULL
 );
 
--- 2. Attendees Table
 CREATE TABLE attendees_tbl (
     attendee_id INT AUTO_INCREMENT PRIMARY KEY,
     attendee_name VARCHAR(255) NOT NULL
 );
 
--- 3. Events-Attendees Junction Table (Many-to-Many)
 CREATE TABLE events_attendees_tbl (
     event_id INT,
     attendee_id INT,
@@ -26,7 +23,6 @@ CREATE TABLE events_attendees_tbl (
     FOREIGN KEY (attendee_id) REFERENCES attendees_tbl(attendee_id) ON DELETE CASCADE
 );
 
--- 4. Event Sponsors Table
 CREATE TABLE event_sponsors_tbl (
     sponsor_id INT AUTO_INCREMENT PRIMARY KEY,
     event_id INT,
@@ -46,8 +42,8 @@ CREATE TABLE event_sponsors_tbl (
 ## Database Creation SQL Script
 
 ```sql
-CREATE DATABASE IF NOT EXISTS Naythan_DB;
-USE Naythan_DB;
+CREATE DATABASE IF NOT EXISTS Cayanan_DB;
+USE Cayanan_DB;
 
 CREATE TABLE IF NOT EXISTS events_tbl (
   event_id INT AUTO_INCREMENT PRIMARY KEY,
