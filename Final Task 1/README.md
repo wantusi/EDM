@@ -1,4 +1,4 @@
-# Finals Lab Task 1 - Events Management Database (Naythan_DB)
+# Finals Lab Task 1 - Events Management Database
 
 ### Step 1: Database Structure
 
@@ -75,5 +75,5 @@ CREATE TABLE IF NOT EXISTS event_sponsors_tbl (
 
 The following raw files are available for download:
 
-- [SQL Script](https://github.com/NaythanIsME/EDM-Portfolio/blob/main/Finals%20Task%201/Files/naytheen.sql) - The SQL script to create the database and tables.
-- [ERD File](https://github.com/NaythanIsME/EDM-Portfolio/blob/main/Finals%20Task%201/Files/naythan.mwb) - The raw ERD file for visual representation of the database.
+- [SQL Script](https://github.com/wantusi/EDM/blob/main/Final%20Task%201/Files/ft1.sql)
+- [ERD File](https://github.com/wantusi/EDM/blob/main/Final%20Task%201/Files/erd.mwb)
