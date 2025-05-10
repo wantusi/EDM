@@ -35,11 +35,11 @@ CREATE TABLE event_sponsors_tbl (
 );
 ```
 
-### 📸 Step 2: Table Output
+### Step 2: Table Output
 
 ![Tables Output](Images/TABLES.jpg)
 
-### 📐 Step 3: Entity Relationship Diagram (ERD)
+### Step 3: Entity Relationship Diagram (ERD)
 
 ![ERD](Images/ERD.jpg)
 
@@ -75,7 +75,7 @@ CREATE TABLE IF NOT EXISTS event_sponsors_tbl (
 );
 ```
 
-## 📄 Task 4 – SQL File Download
+## Task 4 – SQL File Download
 
 The following raw files are available for download:
 
