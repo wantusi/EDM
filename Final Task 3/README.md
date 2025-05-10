@@ -71,5 +71,5 @@ DESCRIBE products_tbl;
 ```
 ## Task 5 – SQL File Download
 
-[Download MySQL File](https://github.com/NaythanIsME/EDM-Portfolio/blob/main/Finals%20Task%203/Files/naythan_products.sql)
+[Download MySQL File](https://github.com/wantusi/EDM/blob/main/Final%20Task%203/Files/products.sql)
 
