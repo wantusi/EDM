@@ -6,14 +6,14 @@ SELECT employee_name, salary
 FROM EmployeeSalaries
 ORDER BY salary DESC;
 ```
-![Alt Text](https://github.com/NaythanIsME/EDM-Portfolio/blob/main/Finals%20Task%204/Images/DESC%20FT4.jpg)
+![Alt Text](https://github.com/wantusi/EDM/blob/main/Final%20Task%204/Images/ft42.jpg)
 
 ```sql
 SELECT department, AVG(salary) AS average_salary
 FROM EmployeeSalaries
 GROUP BY department;
 ```
-![Alt Text](https://github.com/NaythanIsME/EDM-Portfolio/blob/main/Finals%20Task%204/Images/GROUP%20BY%20FT4.jpg)
+![Alt Text](https://github.com/wantusi/EDM/blob/main/Final%20Task%204/Images/ft41.jpg)
 
 ## Task 2 – Table Structure (Problem 1)
 ```sql
@@ -52,27 +52,27 @@ SELECT full_name, salary
 FROM EmployeeData
 ORDER BY salary DESC;
 ```
-![Alt Text](https://github.com/NaythanIsME/EDM-Portfolio/blob/main/Finals%20Task%204/Images/FT4%20P2%201.jpg)
+![Alt Text](https://github.com/wantusi/EDM/blob/main/Final%20Task%204/Images/ft421.jpg)
 
 ```sql
 SELECT AVG(salary) AS average_salary
 FROM EmployeeData
 HAVING average_salary > 70000;
 ```
-![Alt Text](https://github.com/NaythanIsME/EDM-Portfolio/blob/main/Finals%20Task%204/Images/FT4%20P2%202.jpg)
+![Alt Text](https://github.com/wantusi/EDM/blob/main/Final%20Task%204/Images/ft422.jpg)
 
 ```sql
 SELECT full_name
 FROM EmployeeData
 WHERE salary > 100000;
 ```
-![Alt Text](https://github.com/NaythanIsME/EDM-Portfolio/blob/main/Finals%20Task%204/Images/FT4%20P2%203.jpg)
+![Alt Text](https://github.com/wantusi/EDM/blob/main/Final%20Task%204/Images/ft423.jpg)
 
 ```sql
 SELECT COUNT(employee_id) AS number_of_employees
 FROM EmployeeData;
 ```
-![Alt Text](https://github.com/NaythanIsME/EDM-Portfolio/blob/main/Finals%20Task%204/Images/FT4%20P2%204.jpg)
+![Alt Text](https://github.com/wantusi/EDM/blob/main/Final%20Task%204/Images/ft424.jpg)
 
 
 ## Task 4 – Table Structure (Problem 2)
