@@ -1,7 +1,8 @@
 #Finals Task 5 – SQL Views, Stored Procedures & Functions
 
 ##Task 1 – SQL Views
-🔎 View 1: Products with p_indate from 2002 onwards
+
+View 1: Products with p_indate from 2002 onwards
 ```sql
 CREATE VIEW view_products_2002_onwards AS
 SELECT v.v_code, v.v_name, p.p_descript, p.p_indate
