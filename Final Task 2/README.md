@@ -105,7 +105,7 @@ SELECT * FROM assignment_tb;
 
 SELECT * FROM submission_tb;
 ```
-## 📄 Task 5 – SQL File Download
+## Task 5 – SQL File Download
 
 [Download MySQL File](https://github.com/wantusi/EDM/blob/main/Final%20Task%202/Files/ft2.sql)
 
