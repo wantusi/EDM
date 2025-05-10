@@ -1,6 +1,6 @@
-#Finals Task 5 – SQL Views, Stored Procedures & Functions
+# Finals Task 5 – SQL Views, Stored Procedures & Functions
 
-##Task 1 – SQL Views
+## Task 1 – SQL Views
 
 View 1: Products with p_indate from 2002 onwards
 ```sql
@@ -41,7 +41,7 @@ Screenshot:
 
 ![Alt Text](https://github.com/NaythanIsME/EDM-Portfolio/blob/main/Finals%20Task%205/Images/no3.png)
 
-##Task 2 – Stored Procedure
+## Task 2 – Stored Procedure
 Update Vendor Name (with a parameter)
 ```sql
 DELIMITER //
@@ -61,7 +61,7 @@ Screenshot:
 
 ![Alt Text](https://github.com/NaythanIsME/EDM-Portfolio/blob/main/Finals%20Task%205/Images/no4.png)
 
-##Task 3 – Stored Function
+## Task 3 – Stored Function
 ```sql
 DELIMITER //
 CREATE FUNCTION get_products_by_vendor(vcode INT, vstate VARCHAR(3))
@@ -86,7 +86,7 @@ SELECT get_products_by_vendor(21344, 'KY');
 
 ![Alt Text](https://github.com/NaythanIsME/EDM-Portfolio/blob/main/Finals%20Task%205/Images/no5.png)
 
-##Task 4 – Database & Table Creation
+## Task 4 – Database & Table Creation
 ```sql
 CREATE DATABASE inventory;
 USE inventory;
@@ -228,7 +228,7 @@ DELIMITER ;
 
 SELECT get_products_by_vendor(21344, 'KY');
 ```
-##Task 5 – SQL Copy of the Database and Table Structures
+## Task 5 – SQL Copy of the Database and Table Structures
 
 [Download SQL File Problem 1](https://github.com/NaythanIsME/EDM-Portfolio/blob/main/Finals%20Task%204/Files/ft4_prob1.sql)
 
