@@ -37,11 +37,11 @@ CREATE TABLE event_sponsors_tbl (
 
 ### Step 2: Table Output
 
-![Tables Output](Images/TABLES.jpg)
+![Alt Text](https://github.com/wantusi/EDM/blob/main/Final%20Task%201/Images/TABLES.jpg)
 
 ### Step 3: Entity Relationship Diagram (ERD)
 
-![ERD](Images/ERD.jpg)
+![Alt Text](https://github.com/wantusi/EDM/blob/main/Final%20Task%201/Images/ERD.jpg)
 
 ## Database Creation SQL Script
 
