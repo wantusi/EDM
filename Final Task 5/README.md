@@ -12,7 +12,7 @@ WHERE YEAR(p.p_indate) >= 2002;
 ```
 Screenshot:
 
-![Alt Text](https://github.com/NaythanIsME/EDM-Portfolio/blob/main/Finals%20Task%205/Images/no1.png)
+![Alt Text](https://github.com/wantusi/EDM/blob/main/Final%20Task%205/Images/no1.png)
 
 View 2: Products priced between 100 and 150
 ```sql
@@ -25,7 +25,7 @@ SELECT * FROM view_products_price_100_150;
 ```
 Screenshot:
 
-![Alt Text](https://github.com/NaythanIsME/EDM-Portfolio/blob/main/Finals%20Task%205/Images/no2.png)
+![Alt Text](https://github.com/wantusi/EDM/blob/main/Final%20Task%205/Images/no2.png)
 
 View 3: Total price of products sold by specific vendors
 ```sql
@@ -39,7 +39,7 @@ SELECT * FROM view_total_price_by_vendor;
 ```
 Screenshot:
 
-![Alt Text](https://github.com/NaythanIsME/EDM-Portfolio/blob/main/Finals%20Task%205/Images/no3.png)
+![Alt Text](https://github.com/wantusi/EDM/blob/main/Final%20Task%205/Images/no3.png)
 
 ## Task 2 – Stored Procedure
 Update Vendor Name (with a parameter)
@@ -59,7 +59,7 @@ CALL update_vendor_name('Bryson,Inc.');
 ```
 Screenshot:
 
-![Alt Text](https://github.com/NaythanIsME/EDM-Portfolio/blob/main/Finals%20Task%205/Images/no4.png)
+![Alt Text](https://github.com/wantusi/EDM/blob/main/Final%20Task%205/Images/no4.png)
 
 ## Task 3 – Stored Function
 ```sql
@@ -84,7 +84,7 @@ SELECT get_products_by_vendor(21344, 'KY');
 ```
 📸 Screenshot:
 
-![Alt Text](https://github.com/NaythanIsME/EDM-Portfolio/blob/main/Finals%20Task%205/Images/no5.png)
+![Alt Text](https://github.com/wantusi/EDM/blob/main/Final%20Task%205/Images/no5.png)
 
 ## Task 4 – Database & Table Creation
 ```sql
