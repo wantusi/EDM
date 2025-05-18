@@ -33,7 +33,7 @@ CREATE TABLE event_sponsors_tbl (
 
 ### Step 2: Table Output
 
-![Alt Text](https://github.com/wantusi/EDM/blob/main/Final%20Task%201/Images/TABLES.jpg)
+![Alt Text](https://github.com/wantusi/EDM/blob/main/Final%20Task%201/Images/TABLESs.jpg)
 
 ### Step 3: Entity Relationship Diagram (ERD)
 
